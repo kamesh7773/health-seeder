@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    The record types this tool touches. Deliberately narrower than the Kai apps'
+    own list: a seeder that writes types the app never reads only produces false
+    confidence.
+-->
+<healthConnectConfig>
+    <dataType name="SleepSession"/>
+    <dataType name="Steps"/>
+    <dataType name="Height"/>
+    <dataType name="Weight"/>
+</healthConnectConfig>
