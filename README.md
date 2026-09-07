@@ -138,7 +138,7 @@ iOS   Reference    asleep 7h 1m    Core 4h 10m · Deep 1h 19m · REM 1h 32m · A
 And.  Out of bed   asleep 6h 36m   Core 4h 0m  · Deep 1h 19m · REM 1h 17m · Awake 49m
 ```
 
-Each has a signature failure worth memorising:
+Each has a signature failure worth memorising :>
 
 - iOS reading **7h 25m** means the inBed blanket leaked into the total — the
   bug that started this work.
