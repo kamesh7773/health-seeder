@@ -16,7 +16,7 @@ reads.
 ## The two platforms are not the same tool
 
 Everything below applies to both unless a heading says otherwise, but the sleep
-model genuinely differs and the differences are the point:
+model genuinely differs and the differences are the point ->
 
 | | HealthKit | Health Connect |
 |---|---|---|
