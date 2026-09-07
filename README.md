@@ -200,7 +200,7 @@ or a watch survive. There is no "erase Health" — anything hand-entered has to 
 removed from the Health app by hand.
 
 **On a simulator**, erasing is faster than the in-app wipe when you want a true
-blank slate:
+blank slate ->
 
 ```bash
 xcrun simctl list devices available     # pick the one you are actually using
