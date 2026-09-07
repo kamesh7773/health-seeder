@@ -81,7 +81,7 @@ withholding, and the plugin returns null for `READ` and, less obviously, for
 `READ_WRITE` too. Health Connect reports both honestly, but write is what this
 tool needs, so the same question is asked either way.
 
-If a type comes back unwritable, turn it on by hand:
+If a type comes back unwritable, turn it on by hand ->
 
 - **iOS** — Health → Sharing → Apps → Health Seeder. iOS will not re-prompt.
 - **Android** — Health Connect → App permissions → Health Seeder. The sheet
